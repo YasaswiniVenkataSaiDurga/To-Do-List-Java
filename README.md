@@ -23,3 +23,8 @@ This is a beginner-friendly Java console application that allows users to manage
    ```bash
    javac ToDoListApp.java
    java ToDoListApp
+
+## Future Enhancements
+- Add due dates and priority levels
+- Save tasks to a file
+- GUI version using JavaFX
